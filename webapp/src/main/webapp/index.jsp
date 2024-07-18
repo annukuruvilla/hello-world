@@ -31,7 +31,7 @@
     <p>Hi Annu here !!!! Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Juan and Rian</h1>
+   <h1>I love Ritchie, Juan and Rian... Thankyou, Happy Learning Juan and Rian</h1>
 
   
 </form>
