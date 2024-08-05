@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Hi Annu here !!!! Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Hi Annu Ritchie here !!!! Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
    <h1>I love Ritchie, Juan and Rian...Our Home london Thankyou, Happy Learning Juan and Rian</h1>
